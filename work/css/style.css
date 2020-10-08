@@ -6,7 +6,7 @@ body{
 .wrapper{
   max-width: 1000px;
   background-color: #fff;
-  margin: 0 auto:
+  margin: 0 auto；
 }
 
 img{
@@ -14,7 +14,7 @@ img{
 }
 
 .img_button img{
-  display: block:
+  display: block；
 }
 
 .img_button:hover{
@@ -33,7 +33,7 @@ img{
   border-radius: 5px;
   background-color: rgb(255,136,0);
   color: #fff;
-  cursor: pointer: 
+  cursor: pointer；
 }
 
 .img_button{
